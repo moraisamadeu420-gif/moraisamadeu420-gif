@@ -34,6 +34,11 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/moraisamadeu420-gif/moraisamadeu420-gif/snake-output/snake.svg" alt="Snake animation" />
+
+
+###
+
 <h3 align="left">👨‍💻 Sobre mim</h3>
 
 <p align="left">
@@ -67,9 +72,5 @@ Me chamo Amadeu Morais e sou estudante de Análise e Desenvolvimento de Sistemas
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=moraisamadeu420-gif&theme=dark&hide_border=false" height="220" />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/moraisamadeu420-gif/moraisamadeu420-gif/snake-output/snake.svg" alt="Snake animation" />
 
 ###

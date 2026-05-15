@@ -34,7 +34,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/moraisamadeu420-gif/moraisamadeu420-gif/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 
 ###

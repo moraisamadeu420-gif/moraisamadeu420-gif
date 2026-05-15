@@ -1,46 +1,69 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moraisamadeu420-gif/moraisamadeu420-gif/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moraisamadeu420-gif/moraisamadeu420-gif/pacman-output/galaga-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/moraisamadeu420-gif/moraisamadeu420-gif/pacman-output/galaga-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amadeu-morais/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
+
   <a href="mailto:Morais_0116@icloud.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
-  <a href="https://wa.me/55119971721948" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
+
   <a href="https://instagram.com/amadeu_moraiss" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
+
+  <a href="https://wa.me/55119971721948" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/moraisamadeu420-gif/moraisamadeu420-gif/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=moraisamadeu420-gif.moraisamadeu420-gif" />
 </div>
 
 ###
 
-<p align="left"></p>
+<h1 align="center">E aí 👋, eu sou o Amadeu</h1>
 
 ###
+
+<h3 align="left">👨‍💻 Sobre mim</h3>
+
+<p align="left">
+Me chamo Amadeu Morais e sou estudante de Análise e Desenvolvimento de Sistemas 🇧🇷<br><br>
+
+- 🔭 Estou atuando como desenvolvedor e construindo projetos reais
+- 📚 Atualmente estou estudando Análise e Desenvolvimento de Sistemas (ADS)
+- ⚡ No meu tempo livre gosto de criar projetos, automações e explorar novas tecnologias
+</p>
+
+###
+
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+</div>
+
+###
+
+<h3 align="left">🔥 Minhas estatísticas</h3>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=moraisamadeu420-gif&theme=dark&hide_border=false" height="220" />
+</div>

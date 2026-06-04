@@ -30,8 +30,6 @@
 
 ###
 
-<h1 align="center">E aí 👋, eu sou o Amadeu</h1>
-
 ###
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />

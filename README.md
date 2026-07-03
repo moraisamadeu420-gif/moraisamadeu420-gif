@@ -63,12 +63,3 @@ Me chamo Amadeu Morais e sou estudante de Análise e Desenvolvimento de Sistemas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
 </div>
 
-###
-
-<h3 align="left">🔥 Minhas estatísticas</h3>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=moraisamadeu420-gif&theme=dark&hide_border=false" height="220" />
-</div>
-
-###

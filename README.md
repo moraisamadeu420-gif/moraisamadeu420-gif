@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="330" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hzdm4wYTEzMWwyZmF6YnlqeXFid3JtejZ0dHBtZXBsemwyZjJraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5EOYACH9SWWA45b4Bp/giphy.gif" />
+  <img width="100%" height="330" src="assets/avatar_transparente.gif" />
 </div>
 
 ###

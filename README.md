@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="330" src="assets/avatar_transparente.gif" />
+  <img width="100%" height="413" src="assets/avatar_transparente.gif" />
 </div>
 
 ###

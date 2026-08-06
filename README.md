@@ -40,16 +40,16 @@
 <h3 align="left">👨‍💻 Sobre mim</h3>
 
 <p align="left">
-Me chamo Amadeu Morais e sou estudante de Análise e Desenvolvimento de Sistemas 🇧🇷<br><br>
+Me chamo Amadeu Morais e sou estudante de Análise e Desenvolvimento de Sistemas <br><br>
 
-- 🔭 Estou atuando como desenvolvedor e construindo projetos reais
-- 📚 Atualmente estou estudando Análise e Desenvolvimento de Sistemas (ADS)
-- ⚡ No meu tempo livre gosto de criar projetos, automações e explorar novas tecnologias
+- Estou atuando como desenvolvedor e construindo projetos reais
+- Atualmente estou estudando Análise e Desenvolvimento de Sistemas (ADS)
+- No meu tempo livre gosto de criar projetos, automações e explorar novas tecnologias
 </p>
 
 ###
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+<h3 align="left">Linguagens e Ferramentas</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />

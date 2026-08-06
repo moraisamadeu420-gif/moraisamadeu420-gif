@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdqZnhkODRiaGM0d3AydTcxeG1iaWFwNjUxdHFod25mOW8wNzRmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+  <img width="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGp0emZjaHBoeTljbXgxM25pbnZwcDB1M3F6cmw3YjB3Y2JqazN5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif" />
 </div>
 
 ###
@@ -34,20 +34,6 @@
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
-
-###
-
-<h3 align="left">👨‍💻 Sobre mim</h3>
-
-<p align="left">
-Me chamo Amadeu Morais e sou estudante de Análise e Desenvolvimento de Sistemas <br><br>
-
-- Estou atuando como desenvolvedor e construindo projetos reais
-- Atualmente estou estudando Análise e Desenvolvimento de Sistemas (ADS)
-- No meu tempo livre gosto de criar projetos, automações e explorar novas tecnologias
-</p>
-
-###
 
 <h3 align="left">Linguagens e Ferramentas</h3>
 
